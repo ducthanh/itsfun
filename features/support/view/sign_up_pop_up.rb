@@ -1,0 +1,6 @@
+$SIGNUP_BTN = '.header__navigation li:nth-child(5) span'
+$NAME_TF = '#RegistrationForm_first_name'
+$EMAIL_TF = '#RegistrationForm_email'
+$PW_TF = '#RegistrationForm_password'
+$PWCONFIRM_TF = '#RegistrationForm_password2'
+$SIGNUP_SEND_BTN = '#send'

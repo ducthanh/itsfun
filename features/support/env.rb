@@ -2,7 +2,6 @@ require 'capybara/cucumber'
 require 'capybara/dsl'
 require 'selenium-webdriver'
 require 'rspec'
-require File.join(File.dirname(__FILE__), '..', '..', 'lib','action')
 
 Capybara.default_driver = :selenium
 Capybara.default_wait_time = 10

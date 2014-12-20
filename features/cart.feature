@@ -10,7 +10,7 @@ Scenario: Verify that the subtotal updates properly when changing the number of 
 	Given I add some items into cart
 	And I change the quantity for an item
 	Then the subtotal of all product is update accordingly
-Scenario: Verify that an error message is display when a user signup but don't input confirmation
+Scenario: Verify that the product information are the same on product details page and cart page
 	And I search for an existing product
 	And I open the product details page
 	When I add the product into cart

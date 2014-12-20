@@ -1,2 +1,2 @@
-$CART_PRODUCT_DESC = '.productdescription'
-$CART_CLOSE = '.nyroModalClose'
+CART_PRODUCT_DESC = '.productdescription'
+CART_CLOSE = '.nyroModalClose'
